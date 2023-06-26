@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1687733148 source:c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\handle_bank\main.cpp
+	<iostream>
+	"Deal.h"
+	"Lender.h"
+	"Facility.h"
+	"Part.h"
+	"Portefolio.h"
+	<string>
+	<vector>
+	<mysql_connection.h>
+	<cppconn/driver.h>
+	<cppconn/resultset.h>
+	<cppconn/statement.h>
+	<cppconn/prepared_statement.h>
+
+1687620464 source:c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\handle_bank\src\deal.cpp
+	"Deal.h"
+
+1687621235 c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\handle_bank\include\deal.h
+	<iostream>
+	<string>
+	<vector>
+	<mysql_connection.h>
+	<cppconn/driver.h>
+	<cppconn/resultset.h>
+	<cppconn/statement.h>
+	<cppconn/prepared_statement.h>
+	"Lender.h"
+	"Facility.h"
+
+1687729948 source:c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\handle_bank\src\facility.cpp
+	"Facility.h"
+
+1687729963 c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\handle_bank\include\facility.h
+	<iostream>
+	<string>
+	<vector>
+	<mysql_connection.h>
+	<cppconn/driver.h>
+	<cppconn/resultset.h>
+	<cppconn/statement.h>
+	<cppconn/prepared_statement.h>
+
+1687728529 source:c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\handle_bank\src\part.cpp
+	"Part.h"
+
+1687726566 c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\handle_bank\include\part.h
+	<iostream>
+	<string>
+	<vector>
+	<mysql_connection.h>
+	<cppconn/driver.h>
+	<cppconn/resultset.h>
+	<cppconn/statement.h>
+	<cppconn/prepared_statement.h>
+	"Deal.h"
+	"Pool.h"
+
+1687732358 source:c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\handle_bank\src\lender.cpp
+	"Lender.h"
+
+1687732338 c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\handle_bank\include\lender.h
+	<iostream>
+	<string>
+	<vector>
+	<mysql_connection.h>
+	<cppconn/driver.h>
+	<cppconn/resultset.h>
+	<cppconn/statement.h>
+	<cppconn/prepared_statement.h>
+	"Facility.h"
+
+1687726891 source:c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\handle_bank\src\borrower.cpp
+	"Borrower.h"
+
+1687726815 c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\handle_bank\include\borrower.h
+	<iostream>
+	<string>
+	<vector>
+	<mysql_connection.h>
+	<cppconn/driver.h>
+	<cppconn/resultset.h>
+	<cppconn/statement.h>
+	<cppconn/prepared_statement.h>
+	"Part.h"
+
+1687206625 source:c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\handle_bank\src\otherclass.cpp
+	"OtherClass.h"
+
+1687279807 c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\handle_bank\include\otherclass.h
+	<iostream>
+	<string>
+	<vector>
+	<mysql_connection.h>
+	<cppconn/driver.h>
+	<cppconn/resultset.h>
+	<cppconn/statement.h>
+	<cppconn/prepared_statement.h>
+
+1687643492 c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\handle_bank\include\portefolio.h
+	<iostream>
+	<string>
+	<vector>
+	<mysql_connection.h>
+	<cppconn/driver.h>
+	<cppconn/resultset.h>
+	<cppconn/statement.h>
+	<cppconn/prepared_statement.h>
+	"Part.h"
+	"Borrower.h"
+
+1687644446 source:c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\handle_bank\src\portefolio.cpp
+	"Portefolio.h"
+
+1687733318 source:c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\handle_bank\src\pool.cpp
+	"Pool.h"
+
+1687733130 c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\handle_bank\include\pool.h
+	<iostream>
+	<string>
+	<vector>
+	<mysql_connection.h>
+	<cppconn/driver.h>
+	<cppconn/resultset.h>
+	<cppconn/statement.h>
+	<cppconn/prepared_statement.h>
+	"Lender.h"
+	"Facility.h"
+
